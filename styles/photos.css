@@ -1,0 +1,10 @@
+body {
+    margin:25px;
+}
+img{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+img:hover {
+    transform: scaleX(-1);
+}
